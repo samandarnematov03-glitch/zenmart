@@ -334,7 +334,7 @@
     line-height: 28px;
     letter-spacing: 0%;
     text-align: center;
-    }
+    
     /* selling product */
     .selling_product_frame{
         position: relative;
@@ -461,7 +461,7 @@
     line-height: 22px;
     color: #626974;   }
 
-    }
+    
  .selling_product_frame   .product_content_box .price_box{
     margin-top: 10px;
     display: flex;
